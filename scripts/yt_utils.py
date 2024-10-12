@@ -2,7 +2,8 @@ from typing import Dict, List, Any
 
 def parse_comment(snippet: Dict[str, Any], 
                   top_level_comment: Dict[str, Any], 
-                  replies: Dict[str, Any]) -> Dict[str, Any]:
+                  replies: Dict[str, Any],
+                  comment_id) -> Dict[str, Any]:
     """
     Parse a single comment and return its data.
 
@@ -17,7 +18,7 @@ def parse_comment(snippet: Dict[str, Any],
     return {
         'channelId': snippet.get('channelId'),
         'videoId': snippet.get('videoId'),
-        'commentId': top_level_comment.get('id'),  # Check if 'id' exists
+        'commentId': comment_id,  # Check if 'id' exists
         'textDisplay': top_level_comment.get('textDisplay'),
         'textOriginal': top_level_comment.get('textOriginal'),
         'authorDisplayName': top_level_comment.get('authorDisplayName'),
@@ -51,10 +52,12 @@ def extract_comments(response: Dict[str, Any]) -> List[Dict[str, Any]]:
     for item in response.get('items', []):
         snippet = item.get('snippet', {})
         top_level_comment = snippet.get('topLevelComment', {}).get('snippet', {})
-        
+        comment_id = snippet.get('topLevelComment', {}).get('id', '')  # Corrección: usar el id del topLevelComment
+
         comment_replies = item.get('replies', {})
         
-        comment_data = parse_comment(snippet, top_level_comment, comment_replies)
+        comment_data = parse_comment(snippet, top_level_comment, comment_replies, comment_id)
         data.append(comment_data)
     
     return data
+
