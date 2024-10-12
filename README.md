@@ -89,3 +89,10 @@ The directory structure of your new project will look something like this (depen
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
 │                         generated with `pip freeze > requirements.txt`
 ```
+
+In order to get more reference of the API look for:
+
+
+[Developers Google](https://developers.google.com/youtube/v3/docs)
+
+[Python-library](https://google-api-client-libraries.appspot.com/documentation/youtube/v3/python/latest/)
