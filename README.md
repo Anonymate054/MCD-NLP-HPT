@@ -92,6 +92,13 @@ The directory structure of your new project will look something like this (depen
 
 In order to get more reference of the API look for:
 
+## Enviromental file
+
+Remembar to create `.env` file like this:
+
+```
+YT-API-KEY="YOUR_API_KEY"
+```
 
 [Developers Google](https://developers.google.com/youtube/v3/docs)
 
