@@ -1,0 +1,2149 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "kOImM2wUx8MKaB3UbrA4EPQq_hA",
+    "pageInfo": {
+        "totalResults": 56,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Ys0x6-seiAKNftCHaVBXTYogFvc",
+            "id": "UgxfYfkBl7wiE5ztTqp4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "j9rzKJ29d86E72fxic0OjijKJ2Y",
+                    "id": "UgxfYfkBl7wiE5ztTqp4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "El tipo de la izquierda nomás no deja hablar al invitado, que vato tan enfadoso",
+                        "textOriginal": "El tipo de la izquierda nomás no deja hablar al invitado, que vato tan enfadoso",
+                        "authorDisplayName": "@isaiasd.trujillovilla2272",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l9EmRfIMUsqxeXP_IuwPAYxGnimhKLGS4Jn9PQMbiQxg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@isaiasd.trujillovilla2272",
+                        "authorChannelId": {
+                            "value": "UCWoA_jVvzoUbOgtd-VC9BRw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-09-19T23:23:02Z",
+                        "updatedAt": "2024-09-19T23:23:02Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "fvG9ZGXyorXw974TOrt_RSWPZo4",
+            "id": "UgxIAJbGJ_D24h7uiRR4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "cnnM2HwuAKQQ1Yq_FZRCjvVNHCg",
+                    "id": "UgxIAJbGJ_D24h7uiRR4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Yo quería escuchar la clase de historia del rock con Jay de la Cueva...pero casi ni le permiten hablar.",
+                        "textOriginal": "Yo quería escuchar la clase de historia del rock con Jay de la Cueva...pero casi ni le permiten hablar.",
+                        "authorDisplayName": "@MartzMz",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mDAPrekrhXuvav0nruF3LSR-4quF07hsVp1LFi-EUeRfpa=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@MartzMz",
+                        "authorChannelId": {
+                            "value": "UCChkBQh6N1a8cLNaIljlFWA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-09-18T02:32:22Z",
+                        "updatedAt": "2024-09-18T02:37:35Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "vr-Bq8G1J1URJLMVHJTNV_oWjqs",
+            "id": "UgyeJ82FhHY6x6I4eRV4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "pbkksxQ4IASHaErMUTV8ip-VHgw",
+                    "id": "UgyeJ82FhHY6x6I4eRV4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "La cara del Jay de : Estos batos no saben ni verdura de musica",
+                        "textOriginal": "La cara del Jay de : Estos batos no saben ni verdura de musica",
+                        "authorDisplayName": "@reealh5985",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kdF9W2NPbW5EgUktAP_qpwZTLrVZdhO8gnfXw8U4E96xqY=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@reealh5985",
+                        "authorChannelId": {
+                            "value": "UChIr_3sQuQVlK6jvLqJjO8w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-09-13T04:15:35Z",
+                        "updatedAt": "2024-09-13T04:15:35Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "nR7BEn9szwNgt4Rtpwxh7HI09aI",
+            "id": "Ugw5SeonmY_YLXxlFaJ4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "lVAEVwlfYTuLF58UjokjHTl7kGY",
+                    "id": "Ugw5SeonmY_YLXxlFaJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Vine a YouTube y tampoco hay playlist",
+                        "textOriginal": "Vine a YouTube y tampoco hay playlist",
+                        "authorDisplayName": "@nesdaik",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mj-VpDVf66VZ6anOWU9o2RXMUVUYXQtRHqGMeMuXN5BZI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@nesdaik",
+                        "authorChannelId": {
+                            "value": "UCEgsD1zWlZvCWCZsyelfPiQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-09-04T14:06:48Z",
+                        "updatedAt": "2024-09-04T14:06:48Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "jScvgR8wVfgCV-ChMo3XMOxl6W8",
+            "id": "Ugzf-TwYLeHNg0HerRh4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mFHKuLhzqZvja2XhvnDLWuHikyo",
+                    "id": "Ugzf-TwYLeHNg0HerRh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Jay debió ser el centro de ese episodio, no ustedes, ese es el punto de llevar un invitado.",
+                        "textOriginal": "Jay debió ser el centro de ese episodio, no ustedes, ese es el punto de llevar un invitado.",
+                        "authorDisplayName": "@mr.macarron",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ObPmwa7ZxShWj_Coc5g2Nhhi8I6rPuOTnUyhroHyHDV2ZRZD6hD9vVZP204ZdiDpcVwxxXRX3SQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@mr.macarron",
+                        "authorChannelId": {
+                            "value": "UCrAtJv1lUfn7aHb6U1WnLgQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-08-30T18:21:32Z",
+                        "updatedAt": "2024-08-30T18:21:32Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "p6g_C-5ulSMUR65CplMdi2wANCs",
+            "id": "UgzKqF1uibiQkU1GAod4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "-dxyHfukHRP9P23pFtY_hcNDV08",
+                    "id": "UgzKqF1uibiQkU1GAod4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "A mí si me gustó como llevaron la conversación, sí, Jay tiene muchos conocimientos y habla muy bonito de todo porque sabe y lo conoce, sin embargo, también hay una agenda que cumplir y la información que ustedes nos compartieron también es de importancia, al final es una conversación no una ponencia de Jay, igual una parte 2 de datos curiosos sería muy interesante y con eso sí podría hablar mucho más Jay! Me encanta escucharlos!",
+                        "textOriginal": "A mí si me gustó como llevaron la conversación, sí, Jay tiene muchos conocimientos y habla muy bonito de todo porque sabe y lo conoce, sin embargo, también hay una agenda que cumplir y la información que ustedes nos compartieron también es de importancia, al final es una conversación no una ponencia de Jay, igual una parte 2 de datos curiosos sería muy interesante y con eso sí podría hablar mucho más Jay! Me encanta escucharlos!",
+                        "authorDisplayName": "@jossburgoss",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mTt9EQcY7uBbFFoK71grn6g-3g2bDPsS-yts2Mbp1hmi4=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@jossburgoss",
+                        "authorChannelId": {
+                            "value": "UC_FnT5u92rngcJbxwFpe2uw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-08-09T19:54:24Z",
+                        "updatedAt": "2024-08-09T19:54:24Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "gFnPx9mtaTiI5OlPhfnqEekNMzo",
+            "id": "UgwVpw-p6EMDgjD_DAF4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "9eIKDsZ-qFI9sWdUNZ-0x-1iOMU",
+                    "id": "UgwVpw-p6EMDgjD_DAF4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Yo también vengo amorosamente desde Spotify a recomendarles que aprovechen a los invitados y los dejen hablar ☺️",
+                        "textOriginal": "Yo también vengo amorosamente desde Spotify a recomendarles que aprovechen a los invitados y los dejen hablar ☺️",
+                        "authorDisplayName": "@venusias4243",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/YFeH0stZd5dPsQCCq0WS8klC6kOpdP7jrY12Tf06U9HJywKq6TEaunHPEOAXA-oB9DKNZdH7y_k=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@venusias4243",
+                        "authorChannelId": {
+                            "value": "UC0kxwAwSscwZyrjsScXFsHg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-08-06T02:19:20Z",
+                        "updatedAt": "2024-08-06T02:19:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "q9mA3mL6B10GGgbNS9bbUH_Rhak",
+            "id": "UgyaT_QGRJBNvjSEqa94AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "eMUDwPBdjQNrzwNEonCXp3HZNUE",
+                    "id": "UgyaT_QGRJBNvjSEqa94AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Inviten al hijo de L Dalessio ❤",
+                        "textOriginal": "Inviten al hijo de L Dalessio ❤",
+                        "authorDisplayName": "@piripitiflautica182",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/rmnnhy_wi5OqlVu16TQ1pyl5r5oX4b2uP3qOmf-6NLiNK6T2bBwpZRlnsl0IfDtauOsPLOoR0Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@piripitiflautica182",
+                        "authorChannelId": {
+                            "value": "UC5dgmRNojvDxjMVh-KlWSLg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-07-23T20:39:26Z",
+                        "updatedAt": "2024-07-23T20:39:26Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "jORy7Nl0j6yeYSZby-aE7xTbhls",
+            "id": "UgzLPNwOf36eC9bkXl94AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Q162ePNfMo8_5vnbCidM7emL1VE",
+                    "id": "UgzLPNwOf36eC9bkXl94AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "no maaa neta se pasaron de burger",
+                        "textOriginal": "no maaa neta se pasaron de burger",
+                        "authorDisplayName": "@refundido6752",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mgVS0L3LzEsH9rRg4Tqg3XI2E003FpEvNjAqVXXSPDtA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@refundido6752",
+                        "authorChannelId": {
+                            "value": "UC94bISz-W1j4MUUCY9xmOrA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-06-19T05:38:53Z",
+                        "updatedAt": "2024-06-19T05:38:53Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "rLCsBfrHO_s7CXhJywKfVhUb7ek",
+            "id": "UgxbhZM0Mk7pCxf2OpJ4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "YZJVUVZBSDFjkbluP7HTIeZVsXg",
+                    "id": "UgxbhZM0Mk7pCxf2OpJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Me gusta mucho verlos en tiktok y empecé a verlos acá, desde el primer capítulo que vi, fue muy incómodo verlos interactuando más con la compu que entre ustedes, ahora que los veo con invitado, se vuelve evidente que requieren aprender mucho más a interactuar con hacer de la charla más fluida y amena. Veerlos leer todo el tiempo, es incómodo. También el prestar atención sl invitado, dale su espacio y verlo s los ojos, haría de esto una experiencia no solo de escuchar, también de ver 😊",
+                        "textOriginal": "Me gusta mucho verlos en tiktok y empecé a verlos acá, desde el primer capítulo que vi, fue muy incómodo verlos interactuando más con la compu que entre ustedes, ahora que los veo con invitado, se vuelve evidente que requieren aprender mucho más a interactuar con hacer de la charla más fluida y amena. Veerlos leer todo el tiempo, es incómodo. También el prestar atención sl invitado, dale su espacio y verlo s los ojos, haría de esto una experiencia no solo de escuchar, también de ver 😊",
+                        "authorDisplayName": "@pamelamartinez8485",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nwrPzMUeWi605UOFHdwk-THWDCifVZ70m-N_N4sqS_bIq8=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@pamelamartinez8485",
+                        "authorChannelId": {
+                            "value": "UCKmNekvhqnzwasRDADNpvYQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2024-06-08T03:45:24Z",
+                        "updatedAt": "2024-06-08T03:45:24Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ZNqiw1uRkaGpVGIrHIDrrjwJOrY",
+            "id": "Ugxuanul8Wwg-PXQapB4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "vCZAsiZKeI2UdmavYJJ1DBwoMmQ",
+                    "id": "Ugxuanul8Wwg-PXQapB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "no dejen de escuchar el proyecto solista de Jay de la Cueva, acabo de verlo en Pal Norte y totalmente vale la pena!!!",
+                        "textOriginal": "no dejen de escuchar el proyecto solista de Jay de la Cueva, acabo de verlo en Pal Norte y totalmente vale la pena!!!",
+                        "authorDisplayName": "@brevepausa.podcast",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/_vVDdjEJQ2zGnpnhsntTSx55D944B3rwGaoM1edtgGFp0bOVa4qvCSCTP56S2an7S9Q4pkL6=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@brevepausa.podcast",
+                        "authorChannelId": {
+                            "value": "UCIBEg8B2VdIWzD7AL6UqhSQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-06-02T17:02:01Z",
+                        "updatedAt": "2024-06-02T17:02:01Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "1FnVQNESyv6SnjjaBH5LPipKu6Y",
+            "id": "UgzxkmVRIjoudcc8WGh4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "5cmQ1HZSUo9r9IgKBeNgnnIDiHQ",
+                    "id": "UgzxkmVRIjoudcc8WGh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "subase a la cumbancha",
+                        "textOriginal": "subase a la cumbancha",
+                        "authorDisplayName": "@SpdWonder",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k1CywDmpcjaXKfDwaEVY8R-7ICl3Pu4JNUDgqgwf8dSJA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@SpdWonder",
+                        "authorChannelId": {
+                            "value": "UCvkr9ddfXK0cJ56hcasgTMQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-05-29T22:56:20Z",
+                        "updatedAt": "2024-05-29T22:56:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "S5TJBAlOSQaeOGjOqGAPqKML5Ww",
+            "id": "UgwNjCxBuDR8SPdEA5d4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "HAjjpG7aw8y4jPvI2vGv2SHP4pA",
+                    "id": "UgwNjCxBuDR8SPdEA5d4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Wood stock fue un experimento de usa  para ver cómo la gente reaccionaba ala meta :)",
+                        "textOriginal": "Wood stock fue un experimento de usa  para ver cómo la gente reaccionaba ala meta :)",
+                        "authorDisplayName": "@FernandoGutiérrez-d2t",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mM3p2Hkq2OCXkR3lzzdJaILTGFm9X7tGiMiJVwD_MDWqsG_80Tw6WF46XksxNlQR1NQQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@FernandoGuti%C3%A9rrez-d2t",
+                        "authorChannelId": {
+                            "value": "UC2NXbSLSnJ_izmIVFJRlSPw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-05-23T08:38:52Z",
+                        "updatedAt": "2024-05-23T08:38:52Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "xXRGCYb-ha05S7pkL5pLJQMNjaw",
+            "id": "Ugx2u717dY5L_uFS1RN4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "P4qEh7J1gHeTfxzny0i1uGNTeQE",
+                    "id": "Ugx2u717dY5L_uFS1RN4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "La cotorrisa &quot;no puede haber peores entrevistadores que nosotros&quot;<br><br>Historia para tontos &quot;sosten mi podcast&quot;",
+                        "textOriginal": "La cotorrisa \"no puede haber peores entrevistadores que nosotros\"\n\nHistoria para tontos \"sosten mi podcast\"",
+                        "authorDisplayName": "@javierlopzchavelo1325",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ktf9w-_Y-Ykk2WaCOrvRvto-DqwRfZrCwkWm-etOgO-lhcHcpTYkUtyPAuK6d42C4TAw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@javierlopzchavelo1325",
+                        "authorChannelId": {
+                            "value": "UCF6NxTa8_ufLfYy182Zak_Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-05-18T16:11:36Z",
+                        "updatedAt": "2024-05-18T16:11:36Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "0UeUpdtmCiRL25zVmigScq_qyx0",
+            "id": "Ugx300OcInMcOlc8POt4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "qsan6eD9hZAcBcAUOsiiDbTh5J0",
+                    "id": "Ugx300OcInMcOlc8POt4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Muy buen capítulo, no encontré la lista de musica en spotify. La hicieron?",
+                        "textOriginal": "Muy buen capítulo, no encontré la lista de musica en spotify. La hicieron?",
+                        "authorDisplayName": "@Arkhonet-x6n",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ka_OJb0XNJYDEohFXLN9aw8SQx2wooMyAYwzwnScVwBS5AeOdo4U3-cDL-EXswMyKilw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Arkhonet-x6n",
+                        "authorChannelId": {
+                            "value": "UCPqnsQQcr65bTiIEskD8DaQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-05-17T14:27:15Z",
+                        "updatedAt": "2024-05-17T14:27:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "9aRy3PNk1iBTzQgvXvtpKhX8Y20",
+            "id": "Ugw_aaZmQmZnl4bhYaZ4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "6vE0kRhqTrhOemUqHJaGsdAn-Gg",
+                    "id": "Ugw_aaZmQmZnl4bhYaZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Pdta: Lo máximo Vestappen con Barba",
+                        "textOriginal": "Pdta: Lo máximo Vestappen con Barba",
+                        "authorDisplayName": "@polonarvaez3695",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k01Ogv66qFPiEmugSH64k49HzpgEfD-5i2idkOVl0=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@polonarvaez3695",
+                        "authorChannelId": {
+                            "value": "UClaL7Rtv9nR4ijiHgMLmGOg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-05-15T21:04:54Z",
+                        "updatedAt": "2024-05-15T21:04:54Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "tGfGfGvqC5n4FSyPbLmC0T6LURw",
+            "id": "UgwUfLcNwfyvx-OnI3x4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "aVGy8ZjiU-cLeg08-7vQOkW9efk",
+                    "id": "UgwUfLcNwfyvx-OnI3x4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "ver el podcast pausando para escuchar los rolones en spotify fue una experiencia maravillosa, pero no pueden interrumpir tanto al invitado en verdad, Jay era la voz más autorizada en la mesa y cuando estaba hablando de algo realmente importante como el de Sgt Peppers <br>Lonely hearts club band de los Beatles lo interrumpen.",
+                        "textOriginal": "ver el podcast pausando para escuchar los rolones en spotify fue una experiencia maravillosa, pero no pueden interrumpir tanto al invitado en verdad, Jay era la voz más autorizada en la mesa y cuando estaba hablando de algo realmente importante como el de Sgt Peppers \nLonely hearts club band de los Beatles lo interrumpen.",
+                        "authorDisplayName": "@polonarvaez3695",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k01Ogv66qFPiEmugSH64k49HzpgEfD-5i2idkOVl0=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@polonarvaez3695",
+                        "authorChannelId": {
+                            "value": "UClaL7Rtv9nR4ijiHgMLmGOg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 4,
+                        "publishedAt": "2024-05-15T21:02:55Z",
+                        "updatedAt": "2024-05-15T21:02:55Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "QOpCZdcWngaj_91g7b8QNe96niU",
+            "id": "UgygpxWY5dHB2cNOWZ94AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "rbqGfzQtq1_I4X1NdsGBqoY8ozU",
+                    "id": "UgygpxWY5dHB2cNOWZ94AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Entrevista de muy mal gusto  por la falta de respeto a entrevistador cortándole los comentarios para seguir  hablando cuando todo lo leen como buenos ignorantes en cuanto al los temas,, siguiendo su acordión",
+                        "textOriginal": "Entrevista de muy mal gusto  por la falta de respeto a entrevistador cortándole los comentarios para seguir  hablando cuando todo lo leen como buenos ignorantes en cuanto al los temas,, siguiendo su acordión",
+                        "authorDisplayName": "@JorgeGomez-rw1kq",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mbBUoRSEMinpeSYTYagF2qH9UkW9gI2_FQvvW5LA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@JorgeGomez-rw1kq",
+                        "authorChannelId": {
+                            "value": "UC-LEZ9mH_DAd70cjLJ_ltAA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-05-14T02:58:28Z",
+                        "updatedAt": "2024-05-14T02:58:28Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "a4p1PQVegxQjSKOrIUh9lbBN2Zk",
+            "id": "UgxpqSLyvZlQ6Oiq2e54AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "TmJZKD_G4QzFlNmJ9ArS97OxMkc",
+                    "id": "UgxpqSLyvZlQ6Oiq2e54AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Dos grandes pendejos entrevistando a un gran músico y conocedor de la música,, se ve que les tuvo gran respeto viendo su entrevista y corrigiendolos de la mejor manera posible,, pero bueno 🤷",
+                        "textOriginal": "Dos grandes pendejos entrevistando a un gran músico y conocedor de la música,, se ve que les tuvo gran respeto viendo su entrevista y corrigiendolos de la mejor manera posible,, pero bueno 🤷",
+                        "authorDisplayName": "@JorgeGomez-rw1kq",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mbBUoRSEMinpeSYTYagF2qH9UkW9gI2_FQvvW5LA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@JorgeGomez-rw1kq",
+                        "authorChannelId": {
+                            "value": "UC-LEZ9mH_DAd70cjLJ_ltAA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-05-14T02:07:45Z",
+                        "updatedAt": "2024-05-14T02:07:45Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 2,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "P5ghplhPyaLnscZx7lrBJ7zmdew",
+                        "id": "UgxpqSLyvZlQ6Oiq2e54AaABAg.A3P7UqN3Y9sA3P82Meh38F",
+                        "snippet": {
+                            "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                            "videoId": "PAFwYBqf_Os",
+                            "textDisplay": "Y fue en repetidas ocasiones no solo en una ni dos,, ojo,, apliquense",
+                            "textOriginal": "Y fue en repetidas ocasiones no solo en una ni dos,, ojo,, apliquense",
+                            "parentId": "UgxpqSLyvZlQ6Oiq2e54AaABAg",
+                            "authorDisplayName": "@JorgeGomez-rw1kq",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mbBUoRSEMinpeSYTYagF2qH9UkW9gI2_FQvvW5LA=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@JorgeGomez-rw1kq",
+                            "authorChannelId": {
+                                "value": "UC-LEZ9mH_DAd70cjLJ_ltAA"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2024-05-14T02:12:36Z",
+                            "updatedAt": "2024-05-14T02:12:36Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "EGHWQpZRWkNPfpbLB_A2I-KZ9w0",
+                        "id": "UgxpqSLyvZlQ6Oiq2e54AaABAg.A3P7UqN3Y9sA3P8jR7qWYt",
+                        "snippet": {
+                            "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                            "videoId": "PAFwYBqf_Os",
+                            "textDisplay": "También aprendan a entrevistar dejándose ex playar a su entrevistador y no buscando en todo momento ser los protagonistas y queriendo saberlo todo cuando es evidente que no lo saben",
+                            "textOriginal": "También aprendan a entrevistar dejándose ex playar a su entrevistador y no buscando en todo momento ser los protagonistas y queriendo saberlo todo cuando es evidente que no lo saben",
+                            "parentId": "UgxpqSLyvZlQ6Oiq2e54AaABAg",
+                            "authorDisplayName": "@JorgeGomez-rw1kq",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mbBUoRSEMinpeSYTYagF2qH9UkW9gI2_FQvvW5LA=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@JorgeGomez-rw1kq",
+                            "authorChannelId": {
+                                "value": "UC-LEZ9mH_DAd70cjLJ_ltAA"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2024-05-14T02:18:37Z",
+                            "updatedAt": "2024-05-14T02:18:37Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "fPJVzyMNPAbE_vsS6sDxOtKx9U0",
+            "id": "UgxKda61ZBP1yk_Pl_14AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "KDVsTEYBm6dDNxtov-9bI-AjLEg",
+                    "id": "UgxKda61ZBP1yk_Pl_14AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Para la segunda parte inviten al papá también 😂",
+                        "textOriginal": "Para la segunda parte inviten al papá también 😂",
+                        "authorDisplayName": "@jrosiles",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nYnac_BdBqh3kOGtFHH_0AJTZilBR2_Eav9vLmR6BI1Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@jrosiles",
+                        "authorChannelId": {
+                            "value": "UCdsLo6ZeNcBrRejIz5XE-uw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2024-05-12T22:41:59Z",
+                        "updatedAt": "2024-05-12T22:41:59Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "fXIYwwLbsFk-4Obei0pMsZW_uoc",
+            "id": "Ugwk6hc1hlnMAUvbyj54AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "QzW-2U5BW1YF_GahO-f5TmIh3I8",
+                    "id": "Ugwk6hc1hlnMAUvbyj54AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "A ver, hay varias cosas, se fusilaron el video de &quot;taller de música online&quot;, incluso el chiste de Marty McFly se lo robaron de ese vídeo.<br><br>Otra, no dejaron hablar al invitado, solamente estaba ahí como adorno. Y ya no tengo ganas de escribir así que ahí la dejo.",
+                        "textOriginal": "A ver, hay varias cosas, se fusilaron el video de \"taller de música online\", incluso el chiste de Marty McFly se lo robaron de ese vídeo.\n\nOtra, no dejaron hablar al invitado, solamente estaba ahí como adorno. Y ya no tengo ganas de escribir así que ahí la dejo.",
+                        "authorDisplayName": "@pinldoe4890",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kODQo5ZzDMnbX9h1nrSSZBBEVv2Prhsl0RjFmrDfxZ-A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@pinldoe4890",
+                        "authorChannelId": {
+                            "value": "UCNxW52_A1Ehi7A7SiZ0dVtA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-05-10T05:40:27Z",
+                        "updatedAt": "2024-05-10T05:40:27Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "-afDzrzGQiwCWYluOx7gkha4PJ0",
+            "id": "UgyVKhr9m1Qtg8DWnc14AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "FcSpR_-BiEE1h8cW80gohtIjMes",
+                    "id": "UgyVKhr9m1Qtg8DWnc14AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Estoy viendo la mayorías de las entrevistas que le han hecho a Jay y esta es por mucho, la peor. No tuvieron ni el detalle de dejar que Jay se expresará aún más, el tenia mucho que aportar a este podcast pero ustedes no estan al nivel, esa forma de interrumpir al invitado es demasiado molesto, tan solo vean como Diego Ruzzarin manejo una mejor platica con Jay, de los errores se aprende pero esta oportunidad la dejaron ir. 😢",
+                        "textOriginal": "Estoy viendo la mayorías de las entrevistas que le han hecho a Jay y esta es por mucho, la peor. No tuvieron ni el detalle de dejar que Jay se expresará aún más, el tenia mucho que aportar a este podcast pero ustedes no estan al nivel, esa forma de interrumpir al invitado es demasiado molesto, tan solo vean como Diego Ruzzarin manejo una mejor platica con Jay, de los errores se aprende pero esta oportunidad la dejaron ir. 😢",
+                        "authorDisplayName": "@GermanGlezS",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/1tu771FqBgZPQweO4IKOS1Z-B-kFHYIG_zxEdwL7WkoyDjkGQ3wcrRFXG9W3Q4vIRu4ET0bLDQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@GermanGlezS",
+                        "authorChannelId": {
+                            "value": "UCaBMe5hn_8-z6VmRogI8GnA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-04-16T07:14:50Z",
+                        "updatedAt": "2024-04-16T07:17:12Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "p_hS4s1Xa20vnouWtobWbLO7YEQ",
+            "id": "UgwdsKkEWZ4cx8d_N-p4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "uNgmTnrpzLlDsXvvbXHN2wK4slo",
+                    "id": "UgwdsKkEWZ4cx8d_N-p4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Les quedó grande el invitado",
+                        "textOriginal": "Les quedó grande el invitado",
+                        "authorDisplayName": "@alambarbosa1586",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lmSS-HDsg0TE2I7CpLeGrPDr0xxwTjvhiSwwRoRWs=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@alambarbosa1586",
+                        "authorChannelId": {
+                            "value": "UCRdjARzFbMRm6NkrAGQnoow"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-03-23T02:34:19Z",
+                        "updatedAt": "2024-03-23T02:34:19Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "NW3azVmyhVE3zhtbc6wH4FLsfE4",
+            "id": "Ugxp1SVNcj0pz4h48t54AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "eciiRAjJDzUsz-Ie9E9ac8LXv84",
+                    "id": "Ugxp1SVNcj0pz4h48t54AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Pobre Jay, teniendo que ir a estos podcast chafas",
+                        "textOriginal": "Pobre Jay, teniendo que ir a estos podcast chafas",
+                        "authorDisplayName": "@alancardenas8263",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l0Cuxzy2gJiTg_i6z2br487Zf6lqWobdYLNVytscudn74=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@alancardenas8263",
+                        "authorChannelId": {
+                            "value": "UCVd7hi-QMtxKRFE97AQQU7A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-03-22T15:21:27Z",
+                        "updatedAt": "2024-03-22T15:21:27Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "o_86-inPE8FtnZn0ueJs1clS8vU",
+            "id": "UgzrLuK5oCxJK8bYFvV4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "qM3TWdiW1N1vG8FigBjzrgqxQXk",
+                    "id": "UgzrLuK5oCxJK8bYFvV4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "La palabra  &quot;justo&quot; se repitió más de 100 veces. Justo es su favorita",
+                        "textOriginal": "La palabra  \"justo\" se repitió más de 100 veces. Justo es su favorita",
+                        "authorDisplayName": "@victormanuelfernandez8657",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nR2WGyz8wVLro5f22vKJ4Rdy76UULP-aM5v5S592TM3g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@victormanuelfernandez8657",
+                        "authorChannelId": {
+                            "value": "UCsFaMTORCdBUUnVY2nZB3KA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-03-21T17:20:08Z",
+                        "updatedAt": "2024-03-21T17:20:08Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "q2XatGQuQxaWlZXfvG3E3uVimPM",
+            "id": "UgyWh6K9OBW_3bQ1iuh4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "S1VyxBV6R4W_tFfkcGK-bOkmv6k",
+                    "id": "UgyWh6K9OBW_3bQ1iuh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Mi Jay en ratos se ve súper incomodisimo, algo aburrido y me lo interrumpian a cada rato; buena idea, mala ejecución y espero que aprendan de los errores, porque en verdad vine por Jay, no sabía que mapa tenía podcast y venía emocionada y... fue un meh, tienen mucho potencial, échenle más ganitas y cuando traigan a un máster como Jay déjenlo hablar, ahí la llevan...",
+                        "textOriginal": "Mi Jay en ratos se ve súper incomodisimo, algo aburrido y me lo interrumpian a cada rato; buena idea, mala ejecución y espero que aprendan de los errores, porque en verdad vine por Jay, no sabía que mapa tenía podcast y venía emocionada y... fue un meh, tienen mucho potencial, échenle más ganitas y cuando traigan a un máster como Jay déjenlo hablar, ahí la llevan...",
+                        "authorDisplayName": "@JalleyAlcazar",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nd0ZxcFejjWdZkWht5Asl9BJtOu0w1CcQfI2bTWWmal-LF=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@JalleyAlcazar",
+                        "authorChannelId": {
+                            "value": "UCNtJFNK9qp5Pzigx1A4IJEA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-03-21T07:35:42Z",
+                        "updatedAt": "2024-03-21T07:35:42Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ZBR18858qNDy4W7AdgH6xXmBxK4",
+            "id": "UgyKD0ANwwFq3i_ZDsN4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "QarXMUEA8I5vLIHUEFciibsTbps",
+                    "id": "UgyKD0ANwwFq3i_ZDsN4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Nunca hago un comentario en ningún lado, pero si se pasaron con la forma de interrumpir, además interrumpen con un comentario completamente distinto a lo que el invitado está llevando a la mesa, deberían oírse para poder identificar esas fallas, yo lo escuché por Spotify y fue demasiado incómodo, estuve varias veces a punto de quitarlo, no es en mal plan el comentario, pero vine a YouTube solo a dejar este comentario, hagan ese ejercicio de escucharse y verán que lo que dicen varios es real, no se vean solo oigan el podcast",
+                        "textOriginal": "Nunca hago un comentario en ningún lado, pero si se pasaron con la forma de interrumpir, además interrumpen con un comentario completamente distinto a lo que el invitado está llevando a la mesa, deberían oírse para poder identificar esas fallas, yo lo escuché por Spotify y fue demasiado incómodo, estuve varias veces a punto de quitarlo, no es en mal plan el comentario, pero vine a YouTube solo a dejar este comentario, hagan ese ejercicio de escucharse y verán que lo que dicen varios es real, no se vean solo oigan el podcast",
+                        "authorDisplayName": "@danieluribe9821",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k0Lb36x8wN8NPPsrlzDXtFxVqeNClwLAvzDsmeINlAzzQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@danieluribe9821",
+                        "authorChannelId": {
+                            "value": "UCmCpiuO0VPtCzJJqLod9N9w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 12,
+                        "publishedAt": "2024-03-20T22:25:04Z",
+                        "updatedAt": "2024-03-20T22:25:04Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "wozX64f7Mr_IxtE_s0sVjTm9UUU",
+            "id": "UgyuW5Mz2MFBCjF6qBV4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "epGpWd7GtIXNS0smIEYhwnZ3cTw",
+                    "id": "UgyuW5Mz2MFBCjF6qBV4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Yo media hora esperando que salga Robert Johnson. 😢",
+                        "textOriginal": "Yo media hora esperando que salga Robert Johnson. 😢",
+                        "authorDisplayName": "@adriyisus1953",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mDRaS4G8FifSl2j7mc54S3bbAXsKm24RnMDojFcB0o2Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@adriyisus1953",
+                        "authorChannelId": {
+                            "value": "UCDmHkC0Xp12oVWYZ7YsZ4rQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-03-20T14:42:00Z",
+                        "updatedAt": "2024-03-20T14:42:00Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ZysoQskbHlLuZYAI_K8EirCZBbI",
+            "id": "UgwYkzpWpRJNWyRaNhR4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "i01GViTZRqndLl_LsJJoMR7d7CQ",
+                    "id": "UgwYkzpWpRJNWyRaNhR4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Lo que pudo ser una tremenda charla y cátedra, arruinada por el desconocimiento de los hosts sobre el tema. Igual dejo mi like por la mención a los Rupestres, pero estaría chulo documentarse en fuentes que no sean Wikipedia.",
+                        "textOriginal": "Lo que pudo ser una tremenda charla y cátedra, arruinada por el desconocimiento de los hosts sobre el tema. Igual dejo mi like por la mención a los Rupestres, pero estaría chulo documentarse en fuentes que no sean Wikipedia.",
+                        "authorDisplayName": "@carlosivancarrillo1712",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lrjjPQ4dVvNjEqUyExETP8urFcmyDFZVT-vxmUdhKfXeMH=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@carlosivancarrillo1712",
+                        "authorChannelId": {
+                            "value": "UCk8jsMth5Sc5jJuCCJFUjOQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 4,
+                        "publishedAt": "2024-03-14T17:52:28Z",
+                        "updatedAt": "2024-03-14T17:52:28Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "9Zxm_WOPD-SpMZI1StWuoplJY-Q",
+            "id": "Ugy-8rp8C07EOpDlq0F4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "aqQ74HowAzv4kNsj_88ntEWBkiU",
+                    "id": "Ugy-8rp8C07EOpDlq0F4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "no se por que se quejan de que no lo dejaron hablar si al. final termino dando catedra del rock mexicano relajense un chingo xD",
+                        "textOriginal": "no se por que se quejan de que no lo dejaron hablar si al. final termino dando catedra del rock mexicano relajense un chingo xD",
+                        "authorDisplayName": "@cesarperez8418",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mCkxSl15tnoMYNH_WJz-XR0vwVtrFMbsiC6UcbGEZWvQw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@cesarperez8418",
+                        "authorChannelId": {
+                            "value": "UCZVKqjx9lu_DkvqlglODDUg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-03-13T18:44:42Z",
+                        "updatedAt": "2024-03-13T18:44:42Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "hvrp44YnlNWNFBGIHLlO17NHldA",
+            "id": "UgyDjOD66a_9VvXu2v14AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mXeTPFbECUrLwoLVY3qHCj6uY7E",
+                    "id": "UgyDjOD66a_9VvXu2v14AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "yo soy del 2001 u.u",
+                        "textOriginal": "yo soy del 2001 u.u",
+                        "authorDisplayName": "@cesarperez8418",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mCkxSl15tnoMYNH_WJz-XR0vwVtrFMbsiC6UcbGEZWvQw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@cesarperez8418",
+                        "authorChannelId": {
+                            "value": "UCZVKqjx9lu_DkvqlglODDUg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-03-13T18:38:46Z",
+                        "updatedAt": "2024-03-13T18:38:46Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "utRzl5PgCdYpY7V1R2vjbWlUp-A",
+            "id": "UgyBo_cn6nRoc5ptj4x4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "4aflQVZv5Oz_waySGmnKlw7_KzI",
+                    "id": "UgyBo_cn6nRoc5ptj4x4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Personajes como Jay es darle la pauta y dejarlo hablar, que se explaye a su gusto... Sin interrumpirlo tanto. Como lo comentaron uds. sobre los mensajes para enviarles: esta vez si se merecieron unas pastilla de menta por eso.",
+                        "textOriginal": "Personajes como Jay es darle la pauta y dejarlo hablar, que se explaye a su gusto... Sin interrumpirlo tanto. Como lo comentaron uds. sobre los mensajes para enviarles: esta vez si se merecieron unas pastilla de menta por eso.",
+                        "authorDisplayName": "@pollodenezaoficial",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n0QhxhAA6X_qTMlLJDwnSdGUTuAtSAJ1FQcEFpYCCQ2A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@pollodenezaoficial",
+                        "authorChannelId": {
+                            "value": "UCYkpl62zMvA6ktEGBS_uwfw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 7,
+                        "publishedAt": "2024-03-13T18:15:42Z",
+                        "updatedAt": "2024-03-13T18:15:42Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "vm-YV2lCoWmyVEqtfNjW7mVclbs",
+            "id": "UgxR8KAlEY80rSF2XK14AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "pa-_jFZKZ9vcjrtzGdfxD_PqnZw",
+                    "id": "UgxR8KAlEY80rSF2XK14AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Para que tienen invitados si no los dejan hablar? Pffff.... Fatal!",
+                        "textOriginal": "Para que tienen invitados si no los dejan hablar? Pffff.... Fatal!",
+                        "authorDisplayName": "@hramirez74",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kTU_nZA4PdM33ROPIXYK5J4PwjvPUoVvIlSXlpT-0=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@hramirez74",
+                        "authorChannelId": {
+                            "value": "UCWBZJz1zNYOy4x4E-IvFf0w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 4,
+                        "publishedAt": "2024-03-12T20:57:13Z",
+                        "updatedAt": "2024-03-12T20:57:13Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "E2LEkTor-L9u7-7eKEBXOMteSHY",
+            "id": "Ugz146rxExjPzZX_WLR4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "IpjqvMM1Bdf5U9o4xn1JKXoU4hc",
+                    "id": "Ugz146rxExjPzZX_WLR4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "MAMIE SMITH FUE LA REY DEL BLUES...<br>SISTER ROSETTA ES LA REYNA DEL ROCK...<br>Si si fuente fue Wikipedia, hay muchos errores. <br>Buen intento para hablar de la música tan valiosa que es el blues, el rock el jazz y sus derivados.",
+                        "textOriginal": "MAMIE SMITH FUE LA REY DEL BLUES...\nSISTER ROSETTA ES LA REYNA DEL ROCK...\nSi si fuente fue Wikipedia, hay muchos errores. \nBuen intento para hablar de la música tan valiosa que es el blues, el rock el jazz y sus derivados.",
+                        "authorDisplayName": "@AMolina09",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/1b9_EnqcvKxAgJMxV7x-OSlQYzG9Vpi4SZDx1sRwEpX_ajvr4aoXfs6Oevnb1HNEJu6SBsXprWI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@AMolina09",
+                        "authorChannelId": {
+                            "value": "UCJNAWLfh7dKn8y8BMEzOX7A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2024-03-12T07:33:20Z",
+                        "updatedAt": "2024-03-12T07:34:12Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 2,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "3JzOiTYntap8fUY-ejhkmhLRd7M",
+                        "id": "Ugz146rxExjPzZX_WLR4AaABAg.A0sUfJ_JyTRA0wDLHwF-wB",
+                        "snippet": {
+                            "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                            "videoId": "PAFwYBqf_Os",
+                            "textDisplay": "Wikipedia perdió credibilidad cuando permitió que mucha gente interviniera biografías metiendo datos falsos o difamaciones o burlas (ejemplo Alfredo Adame, Brenda Marín)... O de plano desaparecer información.",
+                            "textOriginal": "Wikipedia perdió credibilidad cuando permitió que mucha gente interviniera biografías metiendo datos falsos o difamaciones o burlas (ejemplo Alfredo Adame, Brenda Marín)... O de plano desaparecer información.",
+                            "parentId": "Ugz146rxExjPzZX_WLR4AaABAg",
+                            "authorDisplayName": "@pollodenezaoficial",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n0QhxhAA6X_qTMlLJDwnSdGUTuAtSAJ1FQcEFpYCCQ2A=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@pollodenezaoficial",
+                            "authorChannelId": {
+                                "value": "UCYkpl62zMvA6ktEGBS_uwfw"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2024-03-13T18:18:53Z",
+                            "updatedAt": "2024-03-13T18:18:53Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "w1XqYf7NXYMsG9XNdBtB-AqryB4",
+                        "id": "Ugz146rxExjPzZX_WLR4AaABAg.A0sUfJ_JyTRA1CrG02yJTs",
+                        "snippet": {
+                            "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                            "videoId": "PAFwYBqf_Os",
+                            "textDisplay": "Media hora y ni siquiera hablaron de Robert Johnson 🥲.",
+                            "textOriginal": "Media hora y ni siquiera hablaron de Robert Johnson 🥲.",
+                            "parentId": "Ugz146rxExjPzZX_WLR4AaABAg",
+                            "authorDisplayName": "@adriyisus1953",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mDRaS4G8FifSl2j7mc54S3bbAXsKm24RnMDojFcB0o2Q=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@adriyisus1953",
+                            "authorChannelId": {
+                                "value": "UCDmHkC0Xp12oVWYZ7YsZ4rQ"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2024-03-20T14:43:31Z",
+                            "updatedAt": "2024-03-20T14:43:31Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "5tUMbIeLqOyP1jMk4AzaRf2lvco",
+            "id": "UgwX0jCbXau_S-GMj-B4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "SDEWIIwiMuVlcatnOT5eMfl41Yc",
+                    "id": "UgwX0jCbXau_S-GMj-B4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Correccion., la música Gospel es de iglesias protestantes. En la Iglesia Católica, no se da ese ambiente eufórico energetico.🖖",
+                        "textOriginal": "Correccion., la música Gospel es de iglesias protestantes. En la Iglesia Católica, no se da ese ambiente eufórico energetico.🖖",
+                        "authorDisplayName": "@santosperez8589",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kSGfJDEc-ehaGCvwnyuNBr8kfhML-Yew76Nj8hUUSrrke4-fZIU5cLYjQMy1xZcxRHzA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@santosperez8589",
+                        "authorChannelId": {
+                            "value": "UC93rUE70YO65mzQnZxm_r6Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 4,
+                        "publishedAt": "2024-03-10T16:55:01Z",
+                        "updatedAt": "2024-03-10T16:55:01Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "D_bPODZLMT1PSfkfKwbQm-GZTpQ",
+            "id": "UgzxRXJjlsd7zn5RJPd4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "kbAwlXE6RdkhQyRpQLLGtiyF4RA",
+                    "id": "UgzxRXJjlsd7zn5RJPd4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Nunca los habia escuchado y con todo respeto, me parece muy atrabancada la forma de hablar y de interrumpir, especialmente al invitado",
+                        "textOriginal": "Nunca los habia escuchado y con todo respeto, me parece muy atrabancada la forma de hablar y de interrumpir, especialmente al invitado",
+                        "authorDisplayName": "@espantaespantos2407",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kFKyUfpTt-g7ZZ-6LZ1sANP6791YgWTIsbAPxggknb2p4vMYee8SivclGdDEQnvFVPyg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@espantaespantos2407",
+                        "authorChannelId": {
+                            "value": "UCtGu4DtBCJHSAaT11BsVWPg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 6,
+                        "publishedAt": "2024-03-10T11:16:45Z",
+                        "updatedAt": "2024-03-10T11:16:45Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "Zi6D9UMB1Kk10B0aX8jmNkx0qHE",
+                        "id": "UgzxRXJjlsd7zn5RJPd4AaABAg.A0njdtMCBLMA0okjhdFMKV",
+                        "snippet": {
+                            "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                            "videoId": "PAFwYBqf_Os",
+                            "textDisplay": "si entre ellos se interrumpen siempre ejejej... peor con los nervios del invitado... ahora ellos no son conductores son Internacionalistas, no tiene el manejo de una entrevista.",
+                            "textOriginal": "si entre ellos se interrumpen siempre ejejej... peor con los nervios del invitado... ahora ellos no son conductores son Internacionalistas, no tiene el manejo de una entrevista.",
+                            "parentId": "UgzxRXJjlsd7zn5RJPd4AaABAg",
+                            "authorDisplayName": "@Cynthia_Gutierrez",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lLO2GcxOyxjnf9q7X8b1wIBWzbYHndT_I4xgqF-T4a3vI=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@Cynthia_Gutierrez",
+                            "authorChannelId": {
+                                "value": "UCkXpTUmKNtEWN3kl1FckWgA"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 1,
+                            "publishedAt": "2024-03-10T20:45:31Z",
+                            "updatedAt": "2024-03-10T20:45:31Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "-43MV1plDXrX3wM58fj1dfR9PyE",
+            "id": "UgybBwjYtbr1u6df4Gh4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "2jjfbyC_Ogu146Re-S9SutwxFIQ",
+                    "id": "UgybBwjYtbr1u6df4Gh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Dark Side of The Moon no es del 68, sino del 73.",
+                        "textOriginal": "Dark Side of The Moon no es del 68, sino del 73.",
+                        "authorDisplayName": "@carlosbuchlein",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/K26NaVGRrvKnsstjuOOMzmBJ_WrCG_nkVN5-EDjXlCkY4Lf_g2WponCuMFgMp45mIWZDzgT8=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@carlosbuchlein",
+                        "authorChannelId": {
+                            "value": "UCuWNAEwzApdIXJWuhbFNRjQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-03-10T06:34:20Z",
+                        "updatedAt": "2024-03-10T06:34:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "sxf2WVnwLN36PgofrIrFjo1sXis",
+            "id": "UgyQxV0PaRLnt2IIgTl4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "vw1__imTWZog_xa3yc1YPo_4lkc",
+                    "id": "UgyQxV0PaRLnt2IIgTl4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "NOOOO CARNAL SI TIN TAN YA HABÍA  SACADO MUUUCHISIMAS CANCIONES DE ROCK ANTES DE 1950!!!! NADIE MEJOR QUE TIN TAN !!!",
+                        "textOriginal": "NOOOO CARNAL SI TIN TAN YA HABÍA  SACADO MUUUCHISIMAS CANCIONES DE ROCK ANTES DE 1950!!!! NADIE MEJOR QUE TIN TAN !!!",
+                        "authorDisplayName": "@bongramon",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/9fUGxLv4YD1X4Wn5UYwqCb_grJCxF-lGytw97qDUIE27D6n8eY1dK3OuqGdHXym47YcWMoGv7l0=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@bongramon",
+                        "authorChannelId": {
+                            "value": "UCH5sGxNC1Au7D9dmn5XOdag"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-03-10T06:08:53Z",
+                        "updatedAt": "2024-03-10T06:08:53Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "McP0WNQAnZDGns3Co7Mb7mmvfPg",
+            "id": "UgyI2vp59PrkgIexe814AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "7KwqykPKH1Fe6-RA5IQCJgXmsS8",
+                    "id": "UgyI2vp59PrkgIexe814AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Invitado de lujo!!!",
+                        "textOriginal": "Invitado de lujo!!!",
+                        "authorDisplayName": "@AT_FIELD",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/LQUdK3VAll6ilEo5OgfMBYdnvVbKmFmEQE9I-VXOjXlQpY36Vpmvsy94sz25H3HfC00hpEudewo=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@AT_FIELD",
+                        "authorChannelId": {
+                            "value": "UCcLKeuSskVP41_6NEPL9g6w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 4,
+                        "publishedAt": "2024-03-10T03:04:18Z",
+                        "updatedAt": "2024-03-10T03:04:18Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "JuC8D82BHL6SU4Md_T79YduFlas",
+            "id": "UgxMAabhtLLOt6nwuop4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "O9pnciQ653pQftMwzOyIecTAl0E",
+                    "id": "UgxMAabhtLLOt6nwuop4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Que desperdició de entrevista, tendiendo un personaje como Jay",
+                        "textOriginal": "Que desperdició de entrevista, tendiendo un personaje como Jay",
+                        "authorDisplayName": "@gordillosoloelapellido",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/UmQbR07Z7MgFcLgHgFuIQZms3MIXzWnRAuAxkhwNptLRSSWkszvg93r24yuKHmABJ9uBPAY-QqA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@gordillosoloelapellido",
+                        "authorChannelId": {
+                            "value": "UCoaOW4KYkYrvMt0Le8O6HwQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2024-03-10T02:45:34Z",
+                        "updatedAt": "2024-03-10T02:45:34Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "7A1HZGKaezyPq7dQdsbhOSTu1ys",
+            "id": "UgyCI6WY1gNb9_2lmAZ4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "rCmk0yORQYPW7mf7rZ6JTWiaxjU",
+                    "id": "UgyCI6WY1gNb9_2lmAZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Chale voy en el minuto 10 y que mal llevaron el capítulo.. como para que invitas a alguien si no lo dejas hablar, 👎🏽👎🏽👎🏽👎🏽👎🏽",
+                        "textOriginal": "Chale voy en el minuto 10 y que mal llevaron el capítulo.. como para que invitas a alguien si no lo dejas hablar, 👎🏽👎🏽👎🏽👎🏽👎🏽",
+                        "authorDisplayName": "@andresvazquezo",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/0bEvFtCRF8Jf91qntY_sjoZWYnM9L4rSewnAKd0bQDpjvhksbGki8Tt9J39OzukFVlZFTzFN5Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@andresvazquezo",
+                        "authorChannelId": {
+                            "value": "UC332PQkexOwT-Inv37aijGw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 9,
+                        "publishedAt": "2024-03-09T23:41:24Z",
+                        "updatedAt": "2024-03-09T23:41:24Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "y7v-9xVEwBaF2nZ62d9NFq29GxY",
+                        "id": "UgyCI6WY1gNb9_2lmAZ4AaABAg.A0mV40jQibHA0oiL9pdbic",
+                        "snippet": {
+                            "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                            "videoId": "PAFwYBqf_Os",
+                            "textDisplay": "se llama tour de medios y seguro la compañia de Jay los contacto, porque también estará con Mr. Doctor.",
+                            "textOriginal": "se llama tour de medios y seguro la compañia de Jay los contacto, porque también estará con Mr. Doctor.",
+                            "parentId": "UgyCI6WY1gNb9_2lmAZ4AaABAg",
+                            "authorDisplayName": "@Cynthia_Gutierrez",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lLO2GcxOyxjnf9q7X8b1wIBWzbYHndT_I4xgqF-T4a3vI=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@Cynthia_Gutierrez",
+                            "authorChannelId": {
+                                "value": "UCkXpTUmKNtEWN3kl1FckWgA"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2024-03-10T20:24:33Z",
+                            "updatedAt": "2024-03-10T20:24:33Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "SBdKjh6mLAiefqDo7oQsS2Cvlls",
+            "id": "UgxXQJ6OydQPixcXo-F4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "rCk8HpkQrrHoFU59lDiSmryCKnY",
+                    "id": "UgxXQJ6OydQPixcXo-F4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Perdieron una oportunidad gigante de escuchar a un maestro, de darle luz y foco  realmente, sigan avanzando y aprendiendo que daría yo por tener al máster Jay en mi podcast",
+                        "textOriginal": "Perdieron una oportunidad gigante de escuchar a un maestro, de darle luz y foco  realmente, sigan avanzando y aprendiendo que daría yo por tener al máster Jay en mi podcast",
+                        "authorDisplayName": "@angelstrunk5659",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mbQ-E3MoL9yvPs5JDPGd1Rxu33TKEM2U1WNYsMro3t5Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@angelstrunk5659",
+                        "authorChannelId": {
+                            "value": "UCwQGkbMVMJoB0LcYdiaeHKQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 32,
+                        "publishedAt": "2024-03-09T18:17:19Z",
+                        "updatedAt": "2024-03-09T18:17:19Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "WI8KA8ird9BlCRBfbGzK8eV4vyY",
+            "id": "Ugy6S0axyedRNSk3xBN4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "N1RCcjjsG-87SslUj51No_gtTfU",
+                    "id": "Ugy6S0axyedRNSk3xBN4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Omg omg ❤ siempre los veo en Apple podcast, conocía la cara de mapa, por qué ajá. Pero no la de Íker. Weeeeeeey su nombre y su forma de hablar no hacen match con su carita 😮😮😮😮 te tqm mas.",
+                        "textOriginal": "Omg omg ❤ siempre los veo en Apple podcast, conocía la cara de mapa, por qué ajá. Pero no la de Íker. Weeeeeeey su nombre y su forma de hablar no hacen match con su carita 😮😮😮😮 te tqm mas.",
+                        "authorDisplayName": "@josemanuel9520",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n6qm3aVcUfiJQsWRO-R7sIU2GDVvSfKkalGHRVzNo9iXk=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@josemanuel9520",
+                        "authorChannelId": {
+                            "value": "UCzvC8ispLyU2JoLjlUPQPNA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-03-09T15:06:23Z",
+                        "updatedAt": "2024-03-09T15:06:23Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "vXHMyUFdWjDg8Dh0s7_lfGvV2ic",
+            "id": "UgyclkAWQSPX1YbxM8Z4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "bn0pNo6VTpcv0eUb-aMMAttISTU",
+                    "id": "UgyclkAWQSPX1YbxM8Z4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Veremos este solo porque soy fan del podcast , pero siempre que traen un personaje como estos, el que se ponga hablar de Rock ehhhhhhhhhh!!!!",
+                        "textOriginal": "Veremos este solo porque soy fan del podcast , pero siempre que traen un personaje como estos, el que se ponga hablar de Rock ehhhhhhhhhh!!!!",
+                        "authorDisplayName": "@wickermanhn",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nHMDpbrCbjjawpdaRtvuDcF-LOBckwYXbkt--oithv9A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@wickermanhn",
+                        "authorChannelId": {
+                            "value": "UC9iAPdeLhPC5S_9O0CQu-LA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-03-09T08:44:41Z",
+                        "updatedAt": "2024-03-09T08:44:41Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "kVs3xult0eztoYTU9R3-hEadWwk",
+            "id": "Ugyei8qAK0PaoHyxcUx4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ACDzDVDMbntvb2Ven5M4lBWCZ3E",
+                    "id": "Ugyei8qAK0PaoHyxcUx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "y la playlist?!?",
+                        "textOriginal": "y la playlist?!?",
+                        "authorDisplayName": "@Luiisz666",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kqCJzUzMQ6Z6snARK_0jrHllCt3_jEuvJOqJAaqJOtIl0=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Luiisz666",
+                        "authorChannelId": {
+                            "value": "UCBYQ-9LokRnkHDtupEKEnIw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 4,
+                        "publishedAt": "2024-03-09T07:39:57Z",
+                        "updatedAt": "2024-03-09T07:39:57Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "OBuIB3rmd7J5BUOnQYJx56VRbM4",
+            "id": "UgyrPOhMTXsVg_6acRV4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "j1KZmpkG3t2agcJ58UYmUlTuJ_w",
+                    "id": "UgyrPOhMTXsVg_6acRV4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Siento que fue un error que ellos guiaran la historia si ni le saben y ni les gusta, yo me hubiera limitado a que hay contara y yo me kgara de emoción con las historias, luego hasta lo interrumpen y es de <b>*kyensen, ustedes ni le saben*</b> ni modo",
+                        "textOriginal": "Siento que fue un error que ellos guiaran la historia si ni le saben y ni les gusta, yo me hubiera limitado a que hay contara y yo me kgara de emoción con las historias, luego hasta lo interrumpen y es de **kyensen, ustedes ni le saben** ni modo",
+                        "authorDisplayName": "@generico7485",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lmmnMlp8EEHRNkzJ6VjSS1onV2zdoReVbtKh3VGB0zI-s=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@generico7485",
+                        "authorChannelId": {
+                            "value": "UCtaEzzsmvuHI2gop932CeVg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2024-03-09T04:36:53Z",
+                        "updatedAt": "2024-03-09T04:36:53Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "uxd0ggEWlVu9CvRquPxLAbw_PSU",
+            "id": "UgxN65NXu0nbw6XAGmZ4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "byvF11pkEKSmuvDQCX3gnBUPLVc",
+                    "id": "UgxN65NXu0nbw6XAGmZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Tío teca tú eres la versión perfecta de lo que nunca llegaré a ser YouTuber que habla de historia y antropología y arqueología gran video 😔😔😔",
+                        "textOriginal": "Tío teca tú eres la versión perfecta de lo que nunca llegaré a ser YouTuber que habla de historia y antropología y arqueología gran video 😔😔😔",
+                        "authorDisplayName": "@DIEGORODRIGUEZ-co4uv",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/mJ6BXNk_gRoDgG7Hqq25h9zk_VMpEorhBlqc3KOLTXZlUHfphavS9oHbU8aYy6twrGGoChhUyg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@DIEGORODRIGUEZ-co4uv",
+                        "authorChannelId": {
+                            "value": "UC3rt6oqNlblniIB1M0uGwmA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-03-09T00:42:44Z",
+                        "updatedAt": "2024-03-09T00:42:44Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "1jue8nakgbSAueUZdn8hZgm8e7g",
+                        "id": "UgxN65NXu0nbw6XAGmZ4AaABAg.A0k1IIICgTMA16BlUavLEW",
+                        "snippet": {
+                            "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                            "videoId": "PAFwYBqf_Os",
+                            "textDisplay": "Qué te limita?",
+                            "textOriginal": "Qué te limita?",
+                            "parentId": "UgxN65NXu0nbw6XAGmZ4AaABAg",
+                            "authorDisplayName": "@angelstrunk5659",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mbQ-E3MoL9yvPs5JDPGd1Rxu33TKEM2U1WNYsMro3t5Q=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@angelstrunk5659",
+                            "authorChannelId": {
+                                "value": "UCwQGkbMVMJoB0LcYdiaeHKQ"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2024-03-18T00:36:46Z",
+                            "updatedAt": "2024-03-18T00:36:46Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "WXyKR9ViUCzlA8OwHJKdxm42DXk",
+            "id": "UgxSIZfza5YQumKeqDd4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Lib_AhGWeir33wSdoksLmkvOsOc",
+                    "id": "UgxSIZfza5YQumKeqDd4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Se le nota lo reguetonero al Teca, en mi percepción, se ve muy poco motivado y entusiasmado con el tema, totalmente lo contrario a Iñaki.",
+                        "textOriginal": "Se le nota lo reguetonero al Teca, en mi percepción, se ve muy poco motivado y entusiasmado con el tema, totalmente lo contrario a Iñaki.",
+                        "authorDisplayName": "@borisalexis1",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kHaW8Z3uXwI83EcCIr30_G0BxFzR13kqLi6O0epDRUBbFKcrlzQtJw1GAwojpPuyl88Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@borisalexis1",
+                        "authorChannelId": {
+                            "value": "UCrRtXaUgzefiHAol_t02AoQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2024-03-08T23:38:41Z",
+                        "updatedAt": "2024-03-08T23:38:41Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "dwnTRLmDzBvseDOXY86GPg8olFU",
+            "id": "Ugz6Z4fu_8ZaLcHzUm54AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "MIFfuecWgN-iIA2RdyPoSmmbDZQ",
+                    "id": "Ugz6Z4fu_8ZaLcHzUm54AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Nuestros tontos no estaban listos para esta colaboración como nuestros abuelos no estaban listos para Marty Mc Fly.",
+                        "textOriginal": "Nuestros tontos no estaban listos para esta colaboración como nuestros abuelos no estaban listos para Marty Mc Fly.",
+                        "authorDisplayName": "@nelsongalarza5452",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/_pZO38SItL4e-4Ok8IzaoCzviMJJgZC8RPTtdxJqNh5p28li5D4dw4dnfa9nUSb2PxR0EPSK=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@nelsongalarza5452",
+                        "authorChannelId": {
+                            "value": "UChbqY25swB1j3MMh8F0w8XA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 23,
+                        "publishedAt": "2024-03-08T18:51:59Z",
+                        "updatedAt": "2024-03-08T18:51:59Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "YV5lBVYR37YQ0pLTtsm8_TklVwY",
+            "id": "UgyVTvxZdzxOb3DABpp4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Gx2Ke8zg18TA8IAkOM_07hkp5po",
+                    "id": "UgyVTvxZdzxOb3DABpp4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Son los mejores, sus pendejadas nos hacen mas cultos, desde Colomba un abrazo parceros...",
+                        "textOriginal": "Son los mejores, sus pendejadas nos hacen mas cultos, desde Colomba un abrazo parceros...",
+                        "authorDisplayName": "@diegodavidquinteroquintero916",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kcRPW85GpKDfsr1viQjAKaeCNSy7zpi4Ws7wNR5bp4-Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@diegodavidquinteroquintero916",
+                        "authorChannelId": {
+                            "value": "UCddevjyNEpYFf7TWwGVkEGg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-03-08T18:40:04Z",
+                        "updatedAt": "2024-03-08T18:40:04Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "L1SXMHrIygRHWBZXRmKYkxNk1OM",
+            "id": "UgwKzrrjUlD4fb_TgyJ4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "hG2_1Y5MXyQnqNye7NQKTCesthM",
+                    "id": "UgwKzrrjUlD4fb_TgyJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Muy interesante el tema, pero me incomoda que cortan al invitado a cada rato. Casi no lo dejan hablar...",
+                        "textOriginal": "Muy interesante el tema, pero me incomoda que cortan al invitado a cada rato. Casi no lo dejan hablar...",
+                        "authorDisplayName": "@iris_arcana",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/Pfky9MRj6OHfm2CRH5H10TG4QLEXdVzx6ldpSv64oxp_gGIUtvX1y4fRzBBFHzBoYx449jM=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@iris_arcana",
+                        "authorChannelId": {
+                            "value": "UCpCeNNu3PIUj6c8flKjTVoQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 43,
+                        "publishedAt": "2024-03-08T17:59:13Z",
+                        "updatedAt": "2024-03-08T17:59:13Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "4OqgD74uKoas2Kv3jhAhWIOpmKk",
+                        "id": "UgwKzrrjUlD4fb_TgyJ4AaABAg.A0jJ6u17_25A3y65Xf4QgP",
+                        "snippet": {
+                            "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                            "videoId": "PAFwYBqf_Os",
+                            "textDisplay": "No trae plática el invitado, no cacha las bromas y más allá de referencias a su papá no aporta mucho al tema.",
+                            "textOriginal": "No trae plática el invitado, no cacha las bromas y más allá de referencias a su papá no aporta mucho al tema.",
+                            "parentId": "UgwKzrrjUlD4fb_TgyJ4AaABAg",
+                            "authorDisplayName": "@hectorge753",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/EGJVbALTuV1ZBcqf_CY3n1HlzTYMODsGQOTuXk1jfROhFL98kshBaPgE9onhrBoyQe7CkyD33g=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@hectorge753",
+                            "authorChannelId": {
+                                "value": "UCycPLtKRirASD_6R0sMEssg"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 1,
+                            "publishedAt": "2024-05-28T01:28:13Z",
+                            "updatedAt": "2024-05-28T01:28:13Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "UiLDYBsc_H0tVecvi1db7noRkQw",
+            "id": "UgzHDdH0BOtgNNCRNjl4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "8hOxGn3xgplLPJ-A-4qkTtUlbZE",
+                    "id": "UgzHDdH0BOtgNNCRNjl4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Hola mis tontos favoritos ahora que falleció Akira Toriyama porque no sacan un especial de la historia del manga, el primer manga es ser animado al anime, la historia del doblaje *tose (el hijo de Iker con la francesa) e historias paralelas como tal año se publicó tal anime y ese mismo día paso algo importante",
+                        "textOriginal": "Hola mis tontos favoritos ahora que falleció Akira Toriyama porque no sacan un especial de la historia del manga, el primer manga es ser animado al anime, la historia del doblaje *tose (el hijo de Iker con la francesa) e historias paralelas como tal año se publicó tal anime y ese mismo día paso algo importante",
+                        "authorDisplayName": "@gabocortes71",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k-H7-jRnEqXmLGM6rjaah80GNGLQzpSbftKaG0Xc3jAZSP=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@gabocortes71",
+                        "authorChannelId": {
+                            "value": "UCnzZIs3xIQZJKAcmtARU4bQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-03-08T16:27:30Z",
+                        "updatedAt": "2024-03-08T16:27:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ELsnrXMh1gBi73B6Sd4xd83dIPs",
+            "id": "UgzQwBX9Mjd5O1oK3Px4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "yQu_sVScRP7rTrmWgpmgfTbJ6VI",
+                    "id": "UgzQwBX9Mjd5O1oK3Px4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Ha pasado a mejor vida Akira Toriyama. La historia de dragón Ball ha llegado a su fin. Podrían hacer un vídeo sobre la historia de DB? Sus ventas, su impacto en la sociedad, en el deporte, como es que la religión se metió contra DB, cuanto ha recaudado. Etc. <br><br>Hasta donde tengo entendido uno de ustedes es Otaku así que sería grandioso que le rindieran culto al padre del Shonen",
+                        "textOriginal": "Ha pasado a mejor vida Akira Toriyama. La historia de dragón Ball ha llegado a su fin. Podrían hacer un vídeo sobre la historia de DB? Sus ventas, su impacto en la sociedad, en el deporte, como es que la religión se metió contra DB, cuanto ha recaudado. Etc. \n\nHasta donde tengo entendido uno de ustedes es Otaku así que sería grandioso que le rindieran culto al padre del Shonen",
+                        "authorDisplayName": "@ericksalinas8935",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lteW7RiX5uqX0bZtsTHFuSO_9D0WffxzhYyXmh-DoQ8AM=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@ericksalinas8935",
+                        "authorChannelId": {
+                            "value": "UClJ7z-6WL8_2ttvCx08MJyg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2024-03-08T15:50:53Z",
+                        "updatedAt": "2024-03-08T15:50:53Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "LQGjGOFMaOwfUYzetPC28PUvXs4",
+            "id": "UgxIYoXIZ-R3QGJfvCl4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "PNBm_Kwsgv54pxQMDOZ7yYxJ0gw",
+                    "id": "UgxIYoXIZ-R3QGJfvCl4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Wow! últimamente veo a Jay en todos lados (no es queja), pero está chingónnnnnn, muchas gracias tonotos💗",
+                        "textOriginal": "Wow! últimamente veo a Jay en todos lados (no es queja), pero está chingónnnnnn, muchas gracias tonotos💗",
+                        "authorDisplayName": "@MarisolMoon",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kzHHB69TUDTBe8ZsDOm5qTdjXc-Dh6brNAF3sXzpJT6nQq=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@MarisolMoon",
+                        "authorChannelId": {
+                            "value": "UCo-FceHt3FTYTxESAboBo5A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 17,
+                        "publishedAt": "2024-03-08T15:27:34Z",
+                        "updatedAt": "2024-03-08T15:27:34Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "x3ZrMzmUW-TnDevonrjS2AL13NU",
+                        "id": "UgxIYoXIZ-R3QGJfvCl4AaABAg.A0j1lCK5BhqA8ClA1dp3oh",
+                        "snippet": {
+                            "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                            "videoId": "PAFwYBqf_Os",
+                            "textDisplay": "Weeeeey lo vengo viendo en todos lados desde hace décadas, lo vi en microchip, en Víctimas, inicios de molotov, Fobia, etc. agarro discos físicos y dice productor “Jay de la Cueva”",
+                            "textOriginal": "Weeeeey lo vengo viendo en todos lados desde hace décadas, lo vi en microchip, en Víctimas, inicios de molotov, Fobia, etc. agarro discos físicos y dice productor “Jay de la Cueva”",
+                            "parentId": "UgxIYoXIZ-R3QGJfvCl4AaABAg",
+                            "authorDisplayName": "@ElProfe1977",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k1th3SJwr1sSk98tx3M6y44lxLqgtrDEPsRYTULAFTJg=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@ElProfe1977",
+                            "authorChannelId": {
+                                "value": "UCH2HOGPL51V8iHds_uKS0vQ"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2024-09-10T13:30:01Z",
+                            "updatedAt": "2024-09-10T13:30:01Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "lO7ARFGTunWuEy_m13ZB0knqE1U",
+            "id": "Ugz1aYybcldiW9LlNuJ4AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "beY57BGD3817HMKpm7EkkCkk8ps",
+                    "id": "Ugz1aYybcldiW9LlNuJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Iker rockero es mi nuevo crush. Que mejor cierre de semana que poder escuchar este capítulo y el de mitología para tontos, saludos desde Colombia",
+                        "textOriginal": "Iker rockero es mi nuevo crush. Que mejor cierre de semana que poder escuchar este capítulo y el de mitología para tontos, saludos desde Colombia",
+                        "authorDisplayName": "@majoosoriovelasquez3124",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kCICZY0KOjvIRpsDvIl0eXRkXlsse1GsMRgRLdOcWgCuI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@majoosoriovelasquez3124",
+                        "authorChannelId": {
+                            "value": "UC1lvd27_9zZWU124TOssHzA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 4,
+                        "publishedAt": "2024-03-08T12:01:11Z",
+                        "updatedAt": "2024-03-08T12:01:11Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ofAzr21yrly7ivNtCAHFmHRQTe8",
+            "id": "Ugy-RFjQ4RwGBzU6N854AaABAg",
+            "snippet": {
+                "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                "videoId": "PAFwYBqf_Os",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "u1tjW7JkB7iBlinArrTQf-bCRHo",
+                    "id": "Ugy-RFjQ4RwGBzU6N854AaABAg",
+                    "snippet": {
+                        "channelId": "UCeYSnd34IPe57sM8hkjWhrw",
+                        "videoId": "PAFwYBqf_Os",
+                        "textDisplay": "Weeeeeeeeeeey, no lo he ni temrinado de ver, pero SIEMPRE ES CHINGONSISIMO ESCUCHARLOS, TRABAJO MIENTRAS LOS ESCUCHO. GRACIAS DUDEEEES.",
+                        "textOriginal": "Weeeeeeeeeeey, no lo he ni temrinado de ver, pero SIEMPRE ES CHINGONSISIMO ESCUCHARLOS, TRABAJO MIENTRAS LOS ESCUCHO. GRACIAS DUDEEEES.",
+                        "authorDisplayName": "@djsupramx",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lISv0tmVrhvK6imE5FNfaRKFPvr4t-WBdaTgGGEtGMVw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@djsupramx",
+                        "authorChannelId": {
+                            "value": "UCojAaoc0nbcRdvmr1CXsVPA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 4,
+                        "publishedAt": "2024-03-08T08:49:10Z",
+                        "updatedAt": "2024-03-08T08:49:10Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}
