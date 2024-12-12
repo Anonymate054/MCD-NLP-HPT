@@ -1,7 +1,6 @@
 <h1 align="center">
   <br>
-  <b>NLP</b>
-  <b>By: Luis Enrique Noguera Gil</b>
+  <b>Topic Analysis of YouTube Comments: A Case Study of 'Historia para Tontos'</b>
   <br>
 </h1>
 
